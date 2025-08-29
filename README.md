@@ -17,3 +17,5 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+<img width="566" height="677" alt="Screenshot 2025-08-29 at 12 56 28" src="https://github.com/user-attachments/assets/23890be9-3621-4b4d-a090-3adef4c98299" />
